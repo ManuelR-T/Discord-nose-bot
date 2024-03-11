@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@types/node-cron": "^3.0.8",
-    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/eslint-plugin": "^6.5.0",
     "@typescript-eslint/parser": "^6.5.0",
     "bun-types": "^1.0.1",
     "discord-api-types": "^0.37.56",
